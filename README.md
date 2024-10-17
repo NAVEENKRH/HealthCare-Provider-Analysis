@@ -36,5 +36,5 @@
 ## Why This Matters
 Effective data visualization can significantly improve the efficiency and effectiveness of healthcare management. By transforming raw data into meaningful insights, healthcare providers can optimize operations, improve patient care, and make informed decisions.
 
-## Project Link
-(https://app.powerbi.com/view?r=eyJrIjoiNWZhNzQwOGQtY2ExZS00ZWUzLTk0NjItYTk0NGY5MmZiNDhlIiwidCI6ImNkZGIwNzgzLTcwNDYtNDhhNi04YTE5LWZjY2I5Zjg0MDZlYiJ9)
+
+[DashBoard](https://app.powerbi.com/view?r=eyJrIjoiNWZhNzQwOGQtY2ExZS00ZWUzLTk0NjItYTk0NGY5MmZiNDhlIiwidCI6ImNkZGIwNzgzLTcwNDYtNDhhNi04YTE5LWZjY2I5Zjg0MDZlYiJ9)
