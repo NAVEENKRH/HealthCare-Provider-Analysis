@@ -1,4 +1,5 @@
 # Healthcare Provider Dashboard Project 🚀
+![image.alt]https://github.com/NAVEENKRH/HealthCare-Provider-Analysis/blob/550d24cd19071445e3f5a10580a6188ffe2dd1e2/Assets/THUMBNAIL.png
 
 ## Project Highlights
 
